@@ -29,5 +29,5 @@ All members in these families may carry protective variants, making it a less li
 This repository contains scripts and analysis code for identifying and analyzing potential causal and protective variants in LLFS family members with EOAD. Please refer to the documentation for further details on usage and data processing steps.
 
 Contact
-For questions, reach out via the Issues page, or email yourname@yourinstitution.edu.
+For questions, reach out via the Issues page, or email suny.bio@gmail.com.
 
