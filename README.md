@@ -9,7 +9,7 @@ LLFS families are known for their exceptional longevity and often live to old ag
 
 **42 families have sporadic EOAD cases.**
 
-![](/data/fEOAD_group.png?width=100)
+<img src="/data/fEOAD_group.png" width="500" height="400" />
 
 The 3 familial EOAD families may represent a familial form of EOAD (fEOAD), which raises the hypothesis that there may be specific genetic variants that cause or influence EOAD within this population.
 
